@@ -127,4 +127,5 @@ int main() {
    printf("Best approach: %s\n", bestApproach);
    printf("Total price: %.2f\n", best.totalPrice);
    return 0;
+
 }
